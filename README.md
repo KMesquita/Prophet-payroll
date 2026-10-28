@@ -4,7 +4,7 @@ Sistema acadêmico de folha de pagamento para empresa fictícia com diferentes t
 ## Sobre o projeto
 
 O Prophet payroll é um projeto acadêmico desenvolvido durante
-uma atividade da faculdade realizada em parceria
+um projeto realizada em parceria
 educacional com a Oracle.
 
 O sistema tem como objetivo aplicar conceitos de
