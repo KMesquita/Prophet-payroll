@@ -44,6 +44,6 @@ public abstract class Colaborador {
     }
 
     public static String formatarMoeda(double valor) {
-        return NumberFormat.getCurrencyInstance(new Locale("pt", "BR")).format(valor);
+        return NumberFormat.getCurrencyInstance(Locale.of("pt", "BR")).format(valor);
     }
 }
